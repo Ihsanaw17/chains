@@ -1,0 +1,3 @@
+chain_id:    namespace + ":" + reference
+namespace:   [-a-z0-9]{3,8}
+reference:   [-_a-zA-Z0-9]{1,32}
